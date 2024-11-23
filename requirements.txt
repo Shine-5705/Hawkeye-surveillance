@@ -1,0 +1,12 @@
+tensorflow>=2.0.0
+numpy
+pandas
+seaborn
+matplotlib
+scikit-video
+opencv-python
+twilio
+imageio
+ipywidgets
+scikit-learn
+streamlit
